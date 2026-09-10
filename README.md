@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dr. Maya Reynolds — Therapy Website
 
-## Getting Started
+A premium, responsive therapist website designed for **Dr. Maya Reynolds, PsyD**, a licensed clinical psychologist based in Santa Monica, California.
 
-First, run the development server:
+The website focuses on creating a calm, trustworthy, and human-centered digital experience while presenting therapy services, approach, specialties, and office information clearly.
+
+## ✨ Highlights
+
+- Premium editorial-style therapist website
+- Fully responsive desktop, tablet, and mobile layouts
+- Dr. Maya Reynolds profile and biography
+- Anxiety, trauma, and burnout & perfectionism therapy services
+- Areas of expertise section
+- "Who I Work With" section
+- Therapeutic approach section
+- My Specialties section
+- Dedicated Our Office section
+- FAQ accordion
+- Consultation CTA
+- Responsive navigation
+- Smooth and subtle interactions
+- Santa Monica-focused SEO metadata
+- Accessible and readable typography
+- Optimized image rendering with Next.js Image
+
+## 🛠️ Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Next.js Image Optimization
+
+## 🎨 Design
+
+The visual direction combines:
+
+- Warm ivory and cream tones
+- Muted sage accents
+- Charcoal typography
+- Editorial serif typography
+- Minimal borders
+- Generous whitespace
+- Asymmetrical image layouts
+
+The goal was to create a calm, sophisticated, and premium experience appropriate for a modern therapy practice.
+
+## 📱 Responsive Design
+
+The website is designed and tested across:
+
+- Desktop
+- Tablet
+- Mobile
+- 390px
+- 375px
+- 360px
+
+## 🚀 Getting Started
+
+Clone the repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/YOUR-USERNAME/maya-reynolds-therapy-website.git
